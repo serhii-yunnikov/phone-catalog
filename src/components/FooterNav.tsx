@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 export const FooterNav: React.FC = () => (
   <nav className="footer-nav">
     <Link
-      to="https://github.com/serhii-yunnikov/react_phone-catalog/tree/develop"
+      to="https://github.com/serhii-yunnikov/phone-catalog"
       className="footer-nav__link"
     >
       <p className="uppercase_text">github</p>
