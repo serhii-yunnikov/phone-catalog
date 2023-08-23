@@ -3,7 +3,7 @@
 
 Responsive (desctop, tablet) web page based on [figma design](https://www.figma.com/file/uEetgWenSRxk9jgiym6Yzp/Phone-catalog-redesign?node-id=1-2&t=QvVbIYTOgVufmZHu-0)
 
- - [DEMO LINK](https://serhii-yunnikov.github.io/phone_catalog/)
+ - [DEMO LINK](https://serhii-yunnikov.github.io/phone-catalog/)
 
  Technologies:
   - HTML
